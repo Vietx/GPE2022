@@ -3,3 +3,25 @@ Objects should break when getting hit by a projectile
 Objects should break in realtime
 Object should break like what you can see in games like battlefield or control. another option would be a game like teardown, but that's a totally different kind of style.
 Current plan is not for mobile, while performance should be kept in mind. it's not the main focus at the start
+Focus on destroying stone objects
+
+hoofdvraag
+How can you cause realtime destruction of objects in unity
+how can i create a script that handles realtime destruction
+how
+
+TODO
+- slice plane in half
+- look into ways to break the plane into pieces
+- pick a material to break
+- 
+
+feedback 14 maart
+in welke context destruction
+doe een soort materiaal heel goed(steen, glas, hout)
+
+Bronnen
+https://www.youtube.com/watch?v=BVCNDUcnE1o
+https://summit2021a.game-lab.nl/2021/03/22/glass-shattering/
+https://summit2020b.game-lab.nl/2020/10/26/procedural-mesh-slicing/
+https://forum.unity.com/threads/delaunay-voronoi-diagram-library-for-unity.248962/
