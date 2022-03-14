@@ -1,0 +1,5 @@
+Objects should break in smaller pieces
+Objects should break when getting hit by a projectile
+Objects should break in realtime
+Object should break like what you can see in games like battlefield or control. another option would be a game like teardown, but that's a totally different kind of style.
+Current plan is not for mobile, while performance should be kept in mind. it's not the main focus at the start
