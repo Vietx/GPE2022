@@ -1,0 +1,11 @@
+-Voronoi-
+Fortune's algorithm
+Bowyer-Watson
+Jump flooding algorithm
+edge flip algorithm
+
+-R6-
+generate cut pattern on impactposition,
+Weiler-atherton polygon clipping algorithm,
+triangulation: ear clipping
+

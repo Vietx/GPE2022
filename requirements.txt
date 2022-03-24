@@ -16,7 +16,7 @@ TODO
 - pick a material to break
 - 
 
-feedback 14 maart
+feedback 
 in welke context destruction
 doe een soort materiaal heel goed(steen, glas, hout)
 
@@ -25,3 +25,8 @@ https://www.youtube.com/watch?v=BVCNDUcnE1o
 https://summit2021a.game-lab.nl/2021/03/22/glass-shattering/
 https://summit2020b.game-lab.nl/2020/10/26/procedural-mesh-slicing/
 https://forum.unity.com/threads/delaunay-voronoi-diagram-library-for-unity.248962/
+https://docs.unity3d.com/ScriptReference/RaycastHit-triangleIndex.html
+https://www.gdcvault.com/play/1023003/The-Art-of-Destruction-in
+https://youtu.be/SjkQxowsL0I
+https://assetstore.unity.com/packages/tools/game-toolkits/rayfire-for-unity-148690
+https://www.youtube.com/watch?v=GctAunEuHt4
