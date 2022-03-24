@@ -74,7 +74,7 @@ public class Fracture : MonoBehaviour
         float ux = ((ax * ax + ay * ay) * (by - cy) + (bx * bx + by * by) * (cy - ay) + (cx * cx + cy * cy) * (ay - by)) / d;
         float uy = ((ax * ax + ay * ay) * (cx - bx) + (bx * bx + by * by) * (ax - cx) + (cx * cx + cy * cy) * (bx - ax)) / d;
         //radius
-        float r = (a * b * c) / Mathf.Sqrt((a + b + c) * (b + c - a) * (a + b - c));
+        float r = (a * b * c) / Mathf.Sqrt((a + b + c) * (b + c - a) * (a + b - c));//deze shit klopt niet
 
         return new circumCircle(r,ux,uy);
     }
